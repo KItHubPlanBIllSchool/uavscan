@@ -1,2 +1,6 @@
 # uavscan
-made by Petrov Leonid and Samuel Owusu
+Our Team
+| №  | фи | 
+| ------------- | ------------- |
+| 1 | Petrov Leonid  |
+| 2 | Samuel Owusu  |
